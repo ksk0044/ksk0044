@@ -1,5 +1,5 @@
-## Hi there 👋
-
+ Hi there 🤍
+ I am trying to learn  to code, wish me luck. 
 <!--
 **ksk0044/ksk0044** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
